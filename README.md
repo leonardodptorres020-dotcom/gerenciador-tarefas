@@ -4,7 +4,7 @@ Aplicativo mobile de gerenciamento de tarefas desenvolvido com React Native e Ex
 
 # Integrante
 
-- Leonardo Davi Pereira Torres
+- Leonardo Davi Pereira Torres - Matrícula: 01789028
 
 # Funcionalidades
 
